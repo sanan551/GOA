@@ -1,3 +1,3 @@
 string = "Hello, World!"
-for i in range(1):
-    print(string)
+for i in string:
+    print(i)
