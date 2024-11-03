@@ -1,0 +1,5 @@
+- 👋 Hi, I'm @sanan551
+- 👀 I'm interested in programming
+- 🌱 I'm currently learning programming in Goa
+- 📫 How to reach me: senanmamedov66@gmail.com
+- ⚡ Fun fact: Programming
